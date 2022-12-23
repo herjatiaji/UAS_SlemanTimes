@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148606507617",
+    "firebase_url": "https://uas-sleman-times-default-rtdb.firebaseio.com",
+    "project_id": "uas-sleman-times",
+    "storage_bucket": "uas-sleman-times.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148606507617:android:77510c6c961e46de2f2820",
+        "android_client_info": {
+          "package_name": "com.awikwok.uas_slemantimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148606507617-nehnrkq14otabb5jgsdoqfgn7127mjd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwxM8yBHHASgEVXrPRUM3eiHj9RFOoyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148606507617-nehnrkq14otabb5jgsdoqfgn7127mjd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

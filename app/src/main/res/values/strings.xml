@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS_Sleman Times</string>
+    <string-array name="category">
+        <item>Technology</item>
+        <item>Politic</item>
+        <item>Healthcare</item>
+        <item>Entertainment</item>
+    </string-array>
+</resources>
