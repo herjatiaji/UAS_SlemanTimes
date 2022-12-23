@@ -40,6 +40,7 @@ public class LabelNewsAdapter extends RecyclerView.Adapter<LabelNewsAdapter.View
                 intent.putExtra("title",news_list.get(holder.getAdapterPosition()).getTitle());
                 intent.putExtra("content",news_list.get(holder.getAdapterPosition()).getContent());
                 intent.putExtra("date",news_list.get(holder.getAdapterPosition()).getReleasedDate());
+                intent.putExtra("writer",news_list.get(holder.getAdapterPosition()).getWriter());
                 context.startActivity(intent);
             }
         });

@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class ProfileActivity extends AppCompatActivity {
     TextView tvUsername;
-    CardView cvAddNews,cvBookmark;
+    CardView cvAddNews,cvBookmark,cvReadNews;
     SharedPrefManager sharedPrefManager;
     Button btnLogout;
     @Override
@@ -21,6 +21,8 @@ public class ProfileActivity extends AppCompatActivity {
         btnLogout = findViewById(R.id.buttonLogout);
         cvAddNews = findViewById(R.id.cvAddNews);
         cvBookmark = findViewById(R.id.cvBookmark);
+        cvReadNews = findViewById(R.id.cvReadOwnNews);
+        tvUsername = findViewById(R.id.tvUsernm);
         sharedPrefManager = new SharedPrefManager(this);
 
         cvAddNews.setOnClickListener(new View.OnClickListener() {
@@ -30,7 +32,13 @@ public class ProfileActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
+        cvReadNews.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ProfileActivity.this,MyNewsActivity.class);
+                startActivity(intent);
+            }
+        });
         cvBookmark.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -38,6 +46,7 @@ public class ProfileActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        tvUsername.setText(sharedPrefManager.getSpUsername());
 
         btnLogout.setOnClickListener(new View.OnClickListener() {
             @Override

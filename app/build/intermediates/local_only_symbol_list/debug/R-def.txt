@@ -78,11 +78,15 @@ id textView6
 id textView7
 id textView8
 id textViewBookmark
+id textViewContent
+id textViewDate
 id textViewDont
 id textViewIcon
 id textViewLgn
 id textViewRegister
 id textViewSignup
+id textViewTitle
+id textViewWriter
 id tv1
 id tv8
 id tv9
@@ -102,6 +106,7 @@ layout activity_carousel
 layout activity_login
 layout activity_main
 layout activity_my_news
+layout activity_news_detail
 layout activity_news_list
 layout activity_profile
 layout activity_register

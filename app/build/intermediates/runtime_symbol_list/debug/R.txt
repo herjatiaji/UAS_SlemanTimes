@@ -3189,11 +3189,15 @@ int id textView6 0x7f0a01dd
 int id textView7 0x7f0a01de
 int id textView8 0x7f0a01df
 int id textViewBookmark 0x7f0a01e0
+int id textViewContent 0x7f0a0224
+int id textViewDate 0x7f0a0225
 int id textViewDont 0x7f0a01e1
 int id textViewIcon 0x7f0a01e2
 int id textViewLgn 0x7f0a01e3
 int id textViewRegister 0x7f0a01e4
 int id textViewSignup 0x7f0a01e5
+int id textViewTitle 0x7f0a0226
+int id textViewWriter 0x7f0a0227
 int id text_input_end_icon 0x7f0a01e6
 int id text_input_error_icon 0x7f0a01e7
 int id text_input_start_icon 0x7f0a01e8
@@ -3385,6 +3389,7 @@ int layout activity_carousel 0x7f0d001e
 int layout activity_login 0x7f0d001f
 int layout activity_main 0x7f0d0020
 int layout activity_my_news 0x7f0d0021
+int layout activity_news_detail 0x7f0d0073
 int layout activity_news_list 0x7f0d0022
 int layout activity_profile 0x7f0d0023
 int layout activity_register 0x7f0d0024
