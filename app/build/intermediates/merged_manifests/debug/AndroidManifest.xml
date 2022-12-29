@@ -25,6 +25,9 @@
         android:theme="@style/Theme.UAS_SlemanTimes"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.awikwok.uas_slemantimes.EditNewsActivity"
+            android:exported="false" />
+        <activity
             android:name="com.awikwok.uas_slemantimes.NewsDetail"
             android:exported="false" />
         <activity

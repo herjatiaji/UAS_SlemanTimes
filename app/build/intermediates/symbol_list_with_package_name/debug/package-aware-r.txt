@@ -2618,12 +2618,17 @@ drawable design_snackbar_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_person_outline_24
+drawable ic_baseline_sports_soccer_24
 drawable ic_baseline_visibility_24
 drawable ic_baseline_visibility_off_24
 drawable ic_clock_black_24dp
+drawable ic_entertainment
+drawable ic_food
+drawable ic_health
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_lifestyle
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
@@ -2631,6 +2636,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_politics
 drawable iconuas
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -2816,14 +2822,17 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btn_logout
 id btn_tambah
+id btn_update
 id buttonLgn
 id buttonLogout
 id buttonPanel
 id buttonRegister
+id button_delete_news
 id cache_measures
 id callMeasure
 id cancel_button
 id cardview
+id cardview_mynews
 id carryVelocity
 id center
 id centerCrop
@@ -2869,6 +2878,7 @@ id cvKimia
 id cvMatematika
 id cvNews
 id cvPK
+id cvReadOwnNews
 id cvSejarah
 id dark
 id date_picker_actions
@@ -2966,7 +2976,6 @@ id ignore
 id ignoreRequest
 id image
 id imageViewProf
-id imgBack
 id immediateStop
 id included
 id indeterminate
@@ -3096,6 +3105,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rv_mynews
 id rv_news
 id save_non_transition_alpha
 id save_overlay_view
@@ -3181,7 +3191,6 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
-id textView12
 id textView2
 id textView3
 id textView4
@@ -3189,7 +3198,7 @@ id textView5
 id textView6
 id textView7
 id textView8
-id textViewBookmark
+id textView9
 id textViewContent
 id textViewDate
 id textViewDont
@@ -3199,6 +3208,7 @@ id textViewRegister
 id textViewSignup
 id textViewTitle
 id textViewWriter
+id textViewarticles
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3227,11 +3237,12 @@ id triangle
 id tv1
 id tv8
 id tv9
-id tvBookmark
 id tvDate
+id tvDatemynews
 id tvNama
 id tvPR
 id tvTitle
+id tvTitlemynews
 id tvUsernm
 id tvseemore
 id unchecked
@@ -3387,6 +3398,7 @@ layout abc_tooltip
 layout activity_add_news
 layout activity_bookmark
 layout activity_carousel
+layout activity_edit_news
 layout activity_login
 layout activity_main
 layout activity_my_news
@@ -3413,6 +3425,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item_mynews
 layout item_news_title
 layout m3_alert_dialog
 layout m3_alert_dialog_actions

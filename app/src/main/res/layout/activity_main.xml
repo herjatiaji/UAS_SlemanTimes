@@ -87,7 +87,7 @@
                                 android:layout_width="70dp"
                                 android:layout_height="70dp"
                                 android:layout_marginTop="15dp"
-                                android:src="@drawable/ic_baseline_person_outline_24" />
+                                android:src="@drawable/ic_politics" />
                         </LinearLayout>
 
                     </androidx.cardview.widget.CardView>
@@ -98,7 +98,7 @@
                         android:layout_gravity="center"
                         android:layout_marginTop="10dp"
                         android:fontFamily="@font/times_new_roman_bold"
-                        android:text="Sejarah"
+                        android:text="Politic"
                         android:textColor="@color/black"
                         android:textSize="12sp" />
                 </LinearLayout>
@@ -126,7 +126,7 @@
                                 android:layout_width="70dp"
                                 android:layout_height="70dp"
                                 android:layout_marginTop="15dp"
-                                android:src="@drawable/ic_baseline_visibility_off_24" />
+                                android:src="@drawable/ic_baseline_sports_soccer_24" />
                         </LinearLayout>
 
                     </androidx.cardview.widget.CardView>
@@ -136,7 +136,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:fontFamily="@font/times_new_roman_bold"
-                        android:text="Matematika"
+                        android:text="Sport"
                         android:textColor="@color/black"
                         android:textSize="12sp" />
                 </LinearLayout>
@@ -165,7 +165,7 @@
                                 android:layout_width="70dp"
                                 android:layout_height="70dp"
                                 android:layout_marginTop="15dp"
-                                android:src="@drawable/ic_baseline_visibility_24" />
+                                android:src="@drawable/ic_entertainment" />
                         </LinearLayout>
 
                     </androidx.cardview.widget.CardView>
@@ -175,7 +175,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:fontFamily="@font/times_new_roman_bold"
-                        android:text="Kimia"
+                        android:text="Entertainment"
                         android:textColor="@color/black"
                         android:textSize="12sp" />
                 </LinearLayout>
@@ -203,7 +203,7 @@
                                 android:layout_width="70dp"
                                 android:layout_height="70dp"
                                 android:layout_marginTop="15dp"
-                                android:src="@drawable/ic_launcher_foreground" />
+                                android:src="@drawable/ic_lifestyle" />
                         </LinearLayout>
 
                     </androidx.cardview.widget.CardView>
@@ -213,7 +213,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:fontFamily="@font/times_new_roman_bold"
-                        android:text="Fisika"
+                        android:text="Lifestyle"
                         android:textColor="@color/black"
                         android:textSize="12sp" />
                 </LinearLayout>
@@ -241,7 +241,7 @@
                                 android:layout_width="70dp"
                                 android:layout_height="70dp"
                                 android:layout_marginTop="15dp"
-                                android:src="@drawable/iconuas" />
+                                android:src="@drawable/ic_health" />
                         </LinearLayout>
 
                     </androidx.cardview.widget.CardView>
@@ -251,7 +251,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         android:fontFamily="@font/times_new_roman_bold"
-                        android:text="Agama"
+                        android:text="Health"
                         android:textColor="@color/biru_tua2"
                         android:textSize="12sp" />
                 </LinearLayout>

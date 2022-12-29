@@ -1,27 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/drawable_ic_entertainment.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/drawable/ic_entertainment.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_item_news_title.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\item_news_title.xml"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_bookmark.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_bookmark.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\custom_button.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_custom_button.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\custom_button.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -32,8 +24,108 @@
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/drawable_ic_baseline_sports_soccer_24.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/drawable/ic_baseline_sports_soccer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_tms.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\tms.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_edit_news.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_edit_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_carousel.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_carousel.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable-v24_arrow.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable-v24\\arrow.xml"
+    },
+    {
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/drawable_ic_politics.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/drawable/ic_politics.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_news_detail.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/drawable_ic_health.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/drawable/ic_health.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_ic_baseline_visibility_off_24.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\ic_baseline_visibility_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_iconuas.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\iconuas.png"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/drawable_ic_lifestyle.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/drawable/ic_lifestyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_thenewyorktimes.otf.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\thenewyorktimes.otf"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_news_list.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_news_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_item_mynews.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\item_mynews.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_bookmark.xml.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_times_new_roman.ttf.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\times_new_roman.ttf"
+    },
+    {
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/drawable_ic_food.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/drawable/ic_food.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\xml_backup_rules.xml.flat",
@@ -42,14 +134,6 @@
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_poppins_medium.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\poppins_medium.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_tms.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\tms.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_carousel.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_carousel.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
@@ -72,48 +156,20 @@
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable-v24_arrow.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable-v24\\arrow.xml"
-    },
-    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.awikwok.uas_slemantimes.app-main-40:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_ic_baseline_visibility_off_24.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\ic_baseline_visibility_off_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_iconuas.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\iconuas.png"
-    },
-    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_profile.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_profile.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "com.awikwok.uas_slemantimes.app-merged_res-38:/layout_activity_news_detail.xml.flat",
-        "source": "com.awikwok.uas_slemantimes.app-main-40:/layout/activity_news_detail.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_thenewyorktimes.otf.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\thenewyorktimes.otf"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_my_news.xml.flat",
@@ -124,20 +180,12 @@
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\ic_baseline_visibility_24.xml"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_custom.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\custom.xml"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_add_news.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_add_news.xml"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_times_new_roman_bold.ttf.flat",
@@ -156,23 +204,11 @@
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\drawable_ic_baseline_person_outline_24.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\drawable\\ic_baseline_person_outline_24.xml"
-    },
-    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\font_chomsky.xml.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\font\\chomsky.xml"
     },
     {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_news_list.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_news_list.xml"
-    },
-    {
         "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-merged_res-38:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\HERJATI AJI\\.gradle\\daemon\\7.3.3\\com.awikwok.uas_slemantimes.app-main-40:\\layout\\activity_login.xml"
     }
 ]
